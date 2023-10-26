@@ -1,0 +1,14 @@
+.button{
+    border-radius: 24px;
+    margin: 10px;
+    padding: 25px 20px;
+    background: #61dafb;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.button:disabled{
+    opacity: .5;
+}

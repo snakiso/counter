@@ -1,0 +1,13 @@
+.count{
+    padding: 20px;
+    text-align: center;
+}
+
+.count span{
+    font-size: 80px;
+    color: white;
+}
+
+.maxValue{
+    color: red !important;
+}
